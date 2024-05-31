@@ -1,5 +1,7 @@
 The main objective of this project is to create a professional and user-friendly green grocery website using HTML and CSS that promotes healthy living and sustainability. This website will aim to provide customers with an easy-to-use platform to purchase a variety of organic and locally-sourced produce, as well as other eco-friendly products.
+
 •	The website will be designed to be responsive, accessible, and easy to navigate, with a clean and modern interface that emphasizes the importance of healthy living and sustainable practices. The website will also aim to provide customers with detailed product information, pricing, and easy checkout options to ensure a positive user experience.
+
 •	In addition, the website will be optimized for search engine visibility to attract new customers and improve the online presence of the green grocery store. The website will also be designed with the ability
 
 SCOPE OF PROJECT
