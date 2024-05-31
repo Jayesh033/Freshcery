@@ -6,10 +6,17 @@ The main objective of this project is to create a professional and user-friendly
 
 SCOPE OF PROJECT
 •	Offering a wide range of fresh, organic, and locally-sourced produce, as well as other eco-friendly products like household cleaners, personal care items, and more
+
 •	Providing customers with the convenience of online ordering and delivery to make it easier for them to access high-quality sustainable products.
+
 •	Creating an educational and engaging shopping experience for customers by offering workshops, cooking classes, and other events that promote healthy living and sustainability.
+
 •	Collaborating with local farmers and other sustainable businesses to source products and support the local community.
+
 •	Building a strong brand identity through effective marketing and branding strategies to attract and retain loyal customers.
+
 •	Incorporating sustainable practices throughout the business, such as using environmentally-friendly packaging, reducing waste, and minimizing energy consumption.
+
 •	Expanding the business to new locations or online markets to reach a wider audience and increase sales.
+
 •	Overall, the scope of a green grocery can vary depending on the goals and resources of the business, but these are some common areas that a green grocery may focus on to promote sustainability and healthy living.
